@@ -1,0 +1,7 @@
+﻿  Elemento.cpp
+  FID3.cpp
+  Generando código...
+C:\Users\Fernando\source\repos\ArbolID3\LibreriaFID3\FID3Lib\FID3.cpp(33,16): warning C4244:  'inicializando': conversión de 'unsigned __int64' a 'double'; posible pérdida de datos
+C:\Users\Fernando\source\repos\ArbolID3\LibreriaFID3\FID3Lib\FID3.cpp(160): warning C4172:  devolución de dirección de la variable local o temporal: entropias
+C:\Users\Fernando\source\repos\ArbolID3\LibreriaFID3\FID3Lib\Elemento.cpp(88): warning C4715:  'FID3Lib::Elemento::getValorDifuso': no todas las rutas de acceso de control devuelven un valor
+  FID3Lib.vcxproj -> C:\Users\Fernando\source\repos\ArbolID3\LibreriaFID3\x64\Debug\FID3Lib.lib
